@@ -1,4 +1,4 @@
-Hi there 👋
+Bonjour 👋
 
 je suis développeur Full Stack junior et designer UX/UI en France 
 
