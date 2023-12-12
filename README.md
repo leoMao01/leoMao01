@@ -1,6 +1,6 @@
 Hi there 👋
 
-je suis développeur FUllStack junior et designer UX/UI en France 
+je suis développeur Full Stack junior et designer UX/UI en France 
 
 <!--
 **leoMao01/leoMao01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
