@@ -1,1 +1,1 @@
-Product designer & developer https://www.linkedin.com/in/leomaony/
+UX/UI designer & developer https://www.linkedin.com/in/leomaony/
